@@ -1,2 +1,2 @@
 # pyxorcrypt
-Easily encrypt and decrypt files with XOR
+Easily encrypt and decrypt text with XOR
